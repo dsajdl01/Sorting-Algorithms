@@ -4,7 +4,8 @@ import analysisOfAlgorithm.StopWatch;
 
 /**
  * The Insertion Sort class sort an array to Ascending order
- * insertion sort sort an array in quadratic time even if the all elements are sorted.
+ * insertion sort sort an array in quadratic time even if the all elements are sorted
+ * and move element in one position at time.
  *  
  * @author David Sajdl
  *
